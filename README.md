@@ -2,6 +2,10 @@
 
 A simple and interactive Rock Paper Scissors game built using HTML, CSS, and JavaScript. Play manually or enable auto-play to see the computer battle itself!
 
+🔗 **Live Demo:**  
+[🌐 View Project](https://maazcodecraft.github.io/Rock-Paper-Scissor-Game/index.html)
+
+---
 ## 🌟 Features
 
 - Intuitive and colorful UI.
