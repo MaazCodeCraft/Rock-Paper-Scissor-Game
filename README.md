@@ -6,6 +6,20 @@ A simple and interactive Rock Paper Scissors game built using HTML, CSS, and Jav
 [🌐 View Project](https://maazcodecraft.github.io/Rock-Paper-Scissor-Game/index.html)
 
 ---
+
+## 📸 Screenshots
+
+Here's how the game looks in action:
+
+![Screenshot 1](game-screenshots/01.png)
+![Screenshot 2](game-screenshots/02.png)
+![Screenshot 3](game-screenshots/03.png)
+![Screenshot 4](game-screenshots/04.png)
+
+## Game Demo Video
+
+[📥 Download Demo Video](game-screenshots/game-video.mp4)
+
 ## 🌟 Features
 
 - Intuitive and colorful UI.
@@ -13,26 +27,6 @@ A simple and interactive Rock Paper Scissors game built using HTML, CSS, and Jav
 - Score tracking for wins, losses, and ties.
 - Reset score functionality.
 - Auto-play mode where the computer plays automatically.
-
-## 📁 Project Structure
-
-```
-rock-paper-scissor-game/
-├── rock-paper-scissor-game.html         # Main HTML file
-├── Style/
-│   └── rock-scissor-paper.css           # Styles for layout and visuals
-├── Script/
-│   └── rock-paper-scissor-game.js       # Game logic and interactivity
-└── Images/
-    ├── title.png                        # Favicon image
-    ├── rock-emoji.png                   # Rock emoji icon
-    ├── paper-emoji.png                  # Paper emoji icon
-    ├── scissor-emoji.png                # Scissor emoji icon
-    ├── 01.png                           # Screenshot 1
-    ├── 02.png                           # Screenshot 2
-    ├── 03.png                           # Screenshot 3
-    └── 04.png                           # Screenshot 4
-```
 
 ## 🚀 Getting Started
 
@@ -67,15 +61,6 @@ You can also play using your keyboard:
 - The score updates dynamically.
 - Clicking “Reset Score” clears all scores.
 - Clicking “Auto Play” makes the game run on its own.
-
-## 📸 Screenshots
-
-Here's how the game looks in action:
-
-![Screenshot 1](Images/01.png)
-![Screenshot 2](Images/02.png)
-![Screenshot 3](Images/03.png)
-![Screenshot 4](Images/04.png)
 
 ## 🙌 Author
 
